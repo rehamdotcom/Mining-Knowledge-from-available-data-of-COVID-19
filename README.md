@@ -1,10 +1,10 @@
 ### Mining-Knowledge-from-available-data-of-COVID-19
 
-##### In the reporsitory, I experiment which feature is positively related with the outbreak of COVID-19 throughout the world.
-
-##### Hightlights on the experiment on March 23rd, 2020 are as following:
+##### In the reporsitory, I experiment which of the features is positively correlated with the outbreak of COVID-19 throughout the world. Features include data of inbound tourism across each of the affected countries, georgraphical subfeatures such 'land area', 'population', 'population density', 'latitude' and 'longtitude' accross each of the affected countries, and other climatic subfeatures such as 'Average Temperature', 'Relative Humidity' and 'Average Daylight Hours' also accross each of the affected countries.
 
 ##### I aimed for gathering data from multiple sources, situation reports from World Health Organization (WHO), from United Nations (UN) data and others. 
+
+##### Hightlights on the experiment on March 23rd, 2020 are as following:
 
 ##### The correlation results show highest positive correlation between total positive cases and population across each of the affected countries.
 
