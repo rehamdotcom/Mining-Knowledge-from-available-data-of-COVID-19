@@ -4,7 +4,7 @@
 
 ##### I aimed for gathering data from multiple sources, COVID-19 situation reports are from World Health Organization (WHO), the rest of data are from United Nations (UN) data and others. 
 
-##### Sciket learn libraries were used for both imputing missing values**, for computing the correlation and for carrying out the forecast using SVR model. Whereas StatsModels libraries were used for carrying out the rest of the forecasts.
+##### Sciket learn libraries were used for both imputing missing values**, for computing the correlation and for carrying out the forecast using SVR model. Whereas StatsModels libraries were used for carrying out the forecasts using the rest of models.
 
 #### Hightlights on the experiment on March 21st, 2020 are as following:
 
