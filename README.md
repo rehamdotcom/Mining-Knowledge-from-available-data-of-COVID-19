@@ -2,7 +2,7 @@
 
 ##### In this repository, I experiment which of the features is mostly positively correlated with the outbreak of COVID-19 throughout the world. Features include data of 'inbound tourism'* across each of the affected countries, georgraphical subfeatures such 'land area', 'population', 'population density', 'latitude' and 'longtitude' accross each of the affected countries, and other climatic subfeatures such as 'Average Temperature', 'Relative Humidity' and 'Average Daylight Hours' also accross each of the affected countries.
 
-##### I aimed for gathering data from multiple sources, situation reports from World Health Organization (WHO), from United Nations (UN) data and others. 
+##### I aimed for gathering data from multiple sources, COVID-19 situation reports are from World Health Organization (WHO), the rest of data are from United Nations (UN) data and others. 
 
 ##### Sciket learn libraries were used for both imputing missing values**, for computing the correlation and for carrying out the forecast using SVR model. Whereas StatsModels libraries were used for carrying out the rest of the forecasts.
 
