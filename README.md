@@ -12,7 +12,7 @@
 
 ##### . The correlation results show highest second positive correlation between total positive cases and inbound tourism across each of the affected countries.
 
-##### . Different climatic conditions has no significant correlation with either the total record of positive cases nor the slope of decrease/decrease accross each of the affected countries.
+##### . Different climatic conditions has no significant correlation with either the total record of positive cases nor the slope of increase/decrease accross each of the affected countries.
 
 ----------------------------------------------------------
 ##### * Imputation were applied for predicting missing values for daylight hours and average temperature accross each of the affected countries.
