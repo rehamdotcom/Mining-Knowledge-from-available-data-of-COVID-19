@@ -17,4 +17,4 @@
 ![Image of Yaktocat](https://github.com/rehamdotcom/Mining-Knowledge-from-available-data-of-COVID-19/blob/master/corr.png?raw=true)
 
 ----------------------------------------------------------
-##### * Imputation were applied for predicting missing values for average daylight hours and average temperature accross each of the affected countries using latitude feature and non-missing values for average daylight hours and average temperatures.
+##### * Imputation using KNN were applied for predicting missing values for average daylight hours and average temperature accross each of the affected countries using latitude feature and non-missing values for average daylight hours and average temperatures. Imputed average daylight hours have a mean error of 0.5 hours more or less. Imputed average temperature is also not precise I only use here the latitude feature whereas the degree of elevation feature (which is highly correlated with average temperatures) is not available at this time.
