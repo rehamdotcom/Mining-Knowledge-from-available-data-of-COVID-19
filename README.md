@@ -16,6 +16,17 @@
 
 ![Image of Yaktocat](https://github.com/rehamdotcom/Mining-Knowledge-from-available-data-of-COVID-19/blob/master/corr.png?raw=true)
 
+#### Forecast for positive cases for each of the affected countries are exeucted using different models as following: 
+##### . Simple Linear Regression Model (LR) 
+##### . Auto Regression Model (AR) 
+##### . Moving Average Model (MA) 
+##### . Auto Regression Moving Average Model (ARMA) 
+##### . Auto Regression Integrated Moving Average Model (ARIMA) 
+##### . Suppor Vector Regression Model (Linear, Poly and RFB kernels) (SVR) 
+##### . Simple Exponential Smoothing Model (SES) 
+##### . Holt Winters Exponential Smoothing Model (HWES) 
+
+
 ----------------------------------------------------------
 ##### * Data is only available for the timeframe between 2010 thru 2018 where 2019 is not out yet. Estimates of 2019 are a pure prediction based on the existing history data using a linear regression equation.
 
