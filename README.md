@@ -14,5 +14,7 @@
 
 ##### . Different climatic conditions has no significant correlation with either the total record of positive cases nor the slope of increase/decrease accross each of the affected countries.
 
+![Image of Yaktocat](https://github.com/rehamdotcom/Mining-Knowledge-from-available-data-of-COVID-19/blob/master/corr.png?raw=true)
+
 ----------------------------------------------------------
 ##### * Imputation were applied for predicting missing values for daylight hours and average temperature accross each of the affected countries.
