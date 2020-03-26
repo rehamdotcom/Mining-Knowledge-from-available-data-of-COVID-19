@@ -1,6 +1,6 @@
 ### Mining-Knowledge-from-available-data-of-COVID-19
 
-##### In this reporsitory, I experiment which of the features is positively correlated with the outbreak of COVID-19 throughout the world. Features include data of inbound tourism across each of the affected countries, georgraphical subfeatures such 'land area', 'population', 'population density', 'latitude' and 'longtitude' accross each of the affected countries, and other climatic subfeatures such as 'Average Temperature', 'Relative Humidity' and 'Average Daylight Hours' also accross each of the affected countries.
+##### In this repository, I experiment which of the features is positively correlated with the outbreak of COVID-19 throughout the world. Features include data of inbound tourism across each of the affected countries, georgraphical subfeatures such 'land area', 'population', 'population density', 'latitude' and 'longtitude' accross each of the affected countries, and other climatic subfeatures such as 'Average Temperature', 'Relative Humidity' and 'Average Daylight Hours' also accross each of the affected countries.
 
 ##### I aimed for gathering data from multiple sources, situation reports from World Health Organization (WHO), from United Nations (UN) data and others. 
 
