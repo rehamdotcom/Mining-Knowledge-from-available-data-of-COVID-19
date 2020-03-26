@@ -17,4 +17,4 @@
 ![Image of Yaktocat](https://github.com/rehamdotcom/Mining-Knowledge-from-available-data-of-COVID-19/blob/master/corr.png?raw=true)
 
 ----------------------------------------------------------
-##### * Imputation were applied for predicting missing values for daylight hours and average temperature accross each of the affected countries using latitude feature.
+##### * Imputation were applied for predicting missing values for average daylight hours and average temperature accross each of the affected countries using latitude feature and non-missing values for average daylight hours and average temperatures.
