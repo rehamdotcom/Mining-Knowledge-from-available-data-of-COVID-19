@@ -14,4 +14,6 @@
 
 ##### . Different climatic conditions has no significant correlation with either the total record of positive cases nor the slope of decrease/decrease accross each of the affected countries.
 
+----------------------------------------------------------
+##### Footnotes:
 ##### * Imputation were applied for predicting missing values for daylight hours and average temperature accross each of the affected countries.
