@@ -6,7 +6,7 @@
 
 ##### Sciket learn libraries were used for both imputing missing values** and for computing the correlation.
 
-#### Hightlights on the experiment on March 23rd, 2020 are as following:
+#### Hightlights on the experiment on March 21st, 2020 are as following:
 
 ##### . The correlation results show highest positive correlation between total observed positive cases and population across each of the affected countries.
 
