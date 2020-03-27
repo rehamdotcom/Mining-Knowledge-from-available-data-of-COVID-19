@@ -24,14 +24,16 @@
 ![Image from Yaktocat](https://github.com/rehamdotcom/Mining-Knowledge-from-available-data-of-COVID-19/blob/master/Forecasts/Australia/images/3.AR-Forecast.png?raw=true)
 ##### Figure 4: Forecast using Auto Regression
 ##### Forecast on May 1st, 2020 =  318 Positive Cases
-##### Accuracy = 5%
+##### Standard error: 60 Positive Cases
+##### Prediction interval: 416, 649 Positive Cases
 
 ---------------------
 
 ![Image from Yaktocat](https://github.com/rehamdotcom/Mining-Knowledge-from-available-data-of-COVID-19/blob/master/Forecasts/Australia/images/4.ArimaModel.png?raw=true)
 ##### Figure 5: Forecast using Auto Regression Integrated Moving Average
 ##### Forecast on May 1st, 2020 =  1,230 Positive Cases
-##### Accuracy = 5%
+##### Standard error: 54 Positive Cases
+##### Prediction interval: 391, 603 Positive Cases
 
 ---------------------
 
