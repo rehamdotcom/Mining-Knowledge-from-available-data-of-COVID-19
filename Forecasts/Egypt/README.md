@@ -24,14 +24,16 @@
 ![Image from Yaktocat](https://github.com/rehamdotcom/Mining-Knowledge-from-available-data-of-COVID-19/blob/master/Forecasts/Egypt/Images/3.png?raw=true)
 ##### Figure 4: Forecast using Auto Regression
 ##### Forecast on May 1st, 2020 =  6 Positive Cases
-##### Accuracy = 5%
+##### Standard Error: 12 Positive Cases
+##### Interval of prediction: -16, 31 Positive Cases
 
 ---------------------
 
 ![Image from Yaktocat](https://github.com/rehamdotcom/Mining-Knowledge-from-available-data-of-COVID-19/blob/master/Forecasts/Egypt/Images/5.png?raw=true)
 ##### Figure 5: Forecast using Auto Regression Moving Average
 ##### Forecast on May 1st, 2020 =  8 Positive Cases
-##### Accuracy = 5%
+##### Standard Error: 11 Positive Cases
+##### Interval of prediction: 0, 43 Positive Cases
 
 ---------------------
 
@@ -39,7 +41,8 @@
 ![Image from Yaktocat](https://github.com/rehamdotcom/Mining-Knowledge-from-available-data-of-COVID-19/blob/master/Forecasts/Egypt/Images/4.png?raw=true)
 ##### Figure 6: Forecast using Auto Regression Integrated Moving Average
 ##### Forecast on May 1st, 2020 =  49 Positive Cases
-##### Accuracy = 5%
+##### Standard Error: 11 Positive Cases
+##### Interval of prediction: 1, 43 Positive Cases
 
 ---------------------
 
