@@ -6,6 +6,8 @@
 
 ##### Sciket learn libraries were used for both imputing missing values**, for computing the correlation and for carrying out the forecast using SVR model. Whereas StatsModels libraries were used for carrying out the forecasts using the rest of models.
 
+##### Limitations: Limited timeframe for positive cases observations.
+
 #### Hightlights on the experiment on March 21st, 2020 are as following:
 
 ##### . The correlation results show highest positive correlation between total observed positive cases and population across each of the affected countries.
