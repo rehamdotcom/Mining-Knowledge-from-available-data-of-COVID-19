@@ -1,6 +1,6 @@
 ### Mining-Knowledge-from-available-data-of-COVID-19
 
-##### In this repository, I experiment which of the features is mostly positively correlated with the outbreak of COVID-19 throughout the world. Features include data of 'inbound tourism'* across each of the affected countries, georgraphical subfeatures such 'land area', 'population', 'population density', 'latitude' and 'longtitude' accross each of the affected countries, and other climatic subfeatures such as 'Average Temperature', 'Relative Humidity' and 'Average Daylight Hours' also accross each of the affected countries.
+##### In this repository, I experiment which of the continuous features is mostly positively correlated with the class feature which is the outbreak of COVID-19 throughout the world. Continous features include data of 'inbound tourism'* across each of the affected countries, georgraphical subfeatures such 'land area', 'population', 'population density', 'latitude' and 'longtitude' accross each of the affected countries, and other climatic subfeatures such as 'Average Temperature', 'Relative Humidity' and 'Average Daylight Hours' also accross each of the affected countries. Pearsons correlation was used for this analysis with a threshold value of 0.4 which I assume for continuos features if having a coefficient higher than 0.4 it could be confidently selected.
 
 ##### I aimed for gathering data from multiple sources, COVID-19 situation reports are from World Health Organization (WHO), the rest of data are from United Nations (UN) data and others. 
 
